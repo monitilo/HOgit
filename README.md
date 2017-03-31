@@ -1,3 +1,4 @@
+EDITADO DESDE LA PC , y ahora se sube a la magica nube
 ### Commits
 ar un archivo y agregarlo al repositorio como un nuevo commit
 
